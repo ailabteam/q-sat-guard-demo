@@ -74,7 +74,7 @@ This section outlines the development tasks, structured by phases.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/q-sat-guard-demo.git
+    git clone https://github.com/ailabteam/q-sat-guard-demo.git
     cd q-sat-guard-demo
     ```
 2.  **Start the backend server:**
